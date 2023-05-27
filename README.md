@@ -15,7 +15,7 @@
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Webpack" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" /><img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://icon-icons.com/icon/mongodb-original-logo/146424" />
+<img align="left" alt="Webpack" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" /><img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br>
 <br>
 
